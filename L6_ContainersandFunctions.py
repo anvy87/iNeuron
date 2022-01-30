@@ -22,9 +22,7 @@ def getCubes(n):
         listofSquares.append(i**3)
     return listofSquares
         
-getCubes(5)        
-        
-
+getCubes(10)        
 
 
 
